@@ -3,7 +3,7 @@ name = "SigmaOS-scanner-backend"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "scanner-backend component"
+description = "Scanner Backend"
 upstream = []
 
 [contract]
