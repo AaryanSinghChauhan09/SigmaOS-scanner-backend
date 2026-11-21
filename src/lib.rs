@@ -4,6 +4,9 @@
 //! Real implementation: scanners, events, validation, deterministic storage.
 //! Replaces the placeholder stub.
 
+/// SANE-style scanner management module.
+pub mod sigmascanner;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
